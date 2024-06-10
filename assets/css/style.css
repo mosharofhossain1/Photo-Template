@@ -87,3 +87,22 @@ header i:hover {
 /* .galeryContainer {
 
 } */
+
+footer {
+    padding: 60px 0px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.socialIcons i {
+    margin-right: 15px;
+    font-size: 20px;
+
+}
+
+.developerQutes {
+    margin: 30px 0px;
+    font-size: 17px;
+    opacity: .7;
+    color: black;
+}
