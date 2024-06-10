@@ -1,0 +1,23 @@
+@media screen and (min-width: 576px) {
+    .galeryContainer {
+        display: flex;
+        column-gap: 10px;
+    }
+
+    /* .galaryLeftImgs {} */
+
+    /* .galaryLeftImgs img {} */
+
+    /* .galaryMiddleImgs {} */
+
+    .galaryMiddleImgs :last-child {
+        height: 500px;
+        max-width: 100%;
+    }
+
+    .galaryRightImgs :last-child {
+        height: 590px;
+    }
+
+    /* .galaryRightImgs img {} */
+}
